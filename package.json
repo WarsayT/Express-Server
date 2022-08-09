@@ -1,0 +1,15 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "This is challenge for the express-js module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Warsay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
